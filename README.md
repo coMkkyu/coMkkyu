@@ -7,16 +7,17 @@
 <div align=center>
   
 🌱 I’m currently learning <b>Java</b>, <b>Spring</b>, and <a href="https://github.com/S6-Daejeon4-Study/D4-4idiots-Study"><b>Algorithm</b></a> <br>
-📫 How to reach me: bakha1105@gmail.com <br>
+📝 How to reach me: https://comkkyu-world.tistory.com/ <br>
+📫 How to contact me: bakha1105@gmail.com <br>
 </div>
 
 <div align=center> <h3> 🚩 Tech Stack </h3></div>
 <p align="center">
-<img src="https://img.shields.io/badge/JAVA-informational?logo=Java&logoColor=white&style=flat-square"/></a>
-<img src="https://img.shields.io/badge/Spring-brightgreen?logo=Spring&logoColor=white&style=flat-square"/></a>
-<img src="https://img.shields.io/badge/VUE-ff69b4?logo=Vue.js&logoColor=white&style=flat-square"/></a>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=flat-square"/></a>
-<img src="https://img.shields.io/badge/notion-black.svg?style=for-the-badge&logo=Notion&logoColor=white&style=flat-square"/></a>
+<img src="https://img.shields.io/badge/JAVA-informational?logo=Java&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/Spring-brightgreen?logo=Spring&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/VUE-ff69b4?logo=Vue.js&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/notion-black.svg?style=for-the-badge&logo=Notion&logoColor=white&style=flat-square"/>
 <br><br>
 </p>
 
